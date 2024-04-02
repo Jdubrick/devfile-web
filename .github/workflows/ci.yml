@@ -17,6 +17,7 @@ on:
   push:
     branches:
       - main
+      - docs/fix-outerloop-code-example
   pull_request:
 
 concurrency:
